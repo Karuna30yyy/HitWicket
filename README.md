@@ -1,3 +1,3 @@
 # HitWicket
 
-##Kindly check the About Section for the Hosted Game Link
+## Kindly check the About Section for the Hosted Game Link
